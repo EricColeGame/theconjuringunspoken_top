@@ -1,3 +1,5 @@
+import { routing } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -32,6 +34,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://games-netflix.helpshift.com/hc/en/60-the-conjuring-unspoken/",
     youtube: "https://www.youtube.com/@NetflixGames",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: routing.locales,
   defaultLocale: "en",
 };
