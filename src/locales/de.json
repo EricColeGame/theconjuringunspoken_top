@@ -1,1 +1,502 @@
-{}
+{
+  "site": {
+    "name": "The Conjuring Unspoken Wiki",
+    "shortName": "The Conjuring Unspoken",
+    "tagline": "Guides, Untersuchungswerkzeuge und Story-Entscheidungen",
+    "description": "Erkunde das The Conjuring Unspoken Wiki mit Guides, Charakteren, Lore, Gameplay-Tipps, Updates und Community-Ressourcen, die Spielern helfen, dieses Horror-Abenteuer zu meistern.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Nicht mit Netflix verbunden. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "mechanics": "Mechaniken",
+    "characters": "Charaktere",
+    "story": "Story",
+    "community": "Community",
+    "release": "Release"
+  },
+  "home": {
+    "meta": {
+      "title": "The Conjuring Unspoken Wiki - Guides, Lore und Charaktere",
+      "description": "Erkunde das The Conjuring Unspoken Wiki mit Guides, Charakteren, Lore, Gameplay-Tipps, Updates und Community-Ressourcen, die Spielern helfen, dieses Horror-Abenteuer zu meistern."
+    },
+    "hero": {
+      "eyebrow": "Übernatürliches Horror-Abenteuer",
+      "title": "The Conjuring Unspoken Wiki",
+      "description": "Ein Fan-Ressourcen-Hub mit Gameplay-Guides, Charakteren, Lore, Updates und hilfreichen Informationen zu The Conjuring Unspoken für alle, die seine übernatürliche Horrorwelt erkunden.",
+      "stats": [
+        "Gameplay-Guides",
+        "Story-Entscheidungen",
+        "Untersuchungswerkzeuge",
+        "Charaktere und Lore"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Gameplay-Guide",
+      "tertiaryCta": "Auf Netflix spielen",
+      "videoLabel": "Offizieller Spieltrailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Reise in The Conjuring Unspoken",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Überlebe deine erste Untersuchung mit spoilerarmen Schritten für die erste Sitzung: Stelle den Ton ein, gehe, bevor du rennst, und lerne die Gewohnheiten, die neue Spieler am Leben halten."
+        },
+        {
+          "number": "2",
+          "title": "Gameplay- und Sanity-Schleife",
+          "description": "Verstehe die vierphasige Schleife aus Erkunden, Dokumentieren, Eskalieren und Auflösen – und wie Angst, Sanity und Aufmerksamkeit der Entität sich in jedem Durchlauf gegenseitig verstärken."
+        },
+        {
+          "number": "3",
+          "title": "Steuerung und Tastenbelegung",
+          "description": "Lerne die Ebenen aus Fortbewegung, Interaktion und Wahrnehmung des Steuerungsschemas kennen, mit Standardbelegungen für Tastatur und Gamepad, die du einzeln neu belegen kannst."
+        },
+        {
+          "number": "4",
+          "title": "Co-op- und Überlebenstipps",
+          "description": "Weise die Rollen Späher, Dokumentator und Support zu, halte Ansagen kurz und platziere Schutzzeichen auf deiner Fluchtroute, bevor die Jagd beginnt."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Untersuchungswerkzeuge",
+        "Story-Entscheidungen",
+        "Charaktere und Lore"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Schritte für die erste Sitzung, Kernmechaniken, Co-op-Rollen und die Fehler, die neue Spieler das Leben kosten.",
+          "href": "/guide/the-conjuring-unspoken-beginner-guide"
+        },
+        {
+          "badge": "Mechaniken",
+          "title": "Gameplay und Sanity",
+          "description": "Die Schleife aus Untersuchen, Dokumentieren und Überleben erklärt, inklusive Angst-, Sanity- und Aufmerksamkeitssystemen.",
+          "href": "/mechanics/the-conjuring-unspoken-gameplay"
+        },
+        {
+          "badge": "Mechaniken",
+          "title": "Untersuchungswerkzeuge",
+          "description": "Jedes Gerät zum Aufspüren, Kontaktieren, Einfangen und Abwehren – und wann sich welches lohnt.",
+          "href": "/mechanics/the-conjuring-unspoken-paranormal-investigation"
+        },
+        {
+          "badge": "Guide",
+          "title": "Steuerung und Tastenbelegung",
+          "description": "Bewegungs-, Interaktions- und Kamerabelegung für Tastatur, Maus und Gamepad mit Tipps zum Neubelegen.",
+          "href": "/mechanics/the-conjuring-unspoken-controls"
+        },
+        {
+          "badge": "Guide",
+          "title": "Geheimnisse und Lore",
+          "description": "Verborgene Lore, filmübergreifende Easter Eggs, echte Warren-Fallakten und die erklärte Zeitlinie.",
+          "href": "/guide/the-conjuring-unspoken-secrets"
+        },
+        {
+          "badge": "Charaktere",
+          "title": "Charaktere und Dämonen",
+          "description": "Die Ermittler, betroffenen Familien, Entitäten und verfluchten Artefakte, die jeden Fall antreiben.",
+          "href": "/characters/the-conjuring-unspoken-characters"
+        },
+        {
+          "badge": "Story",
+          "title": "Story und Fälle",
+          "description": "Wie narrative Entscheidungen, Dialoge und Fallstränge das interaktive Horrorerlebnis prägen.",
+          "href": "/story/the-conjuring-unspoken-story"
+        },
+        {
+          "badge": "Release",
+          "title": "Plattformen und Verfügbarkeit",
+          "description": "Kino, Streaming, digitaler Verleih und physische Optionen – und wie du offizielle News verfolgst.",
+          "href": "/release/the-conjuring-unspoken-platforms"
+        },
+        {
+          "badge": "News",
+          "title": "Neueste Updates",
+          "description": "Offizielle Ankündigungen, Trailer, Release-Details und wie du News von Gerüchten trennst.",
+          "href": "/community/the-conjuring-unspoken-updates"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist The Conjuring Unspoken?",
+      "paragraphs": [
+        "The Conjuring Unspoken ist ein übernatürliches Horrorerlebnis in der Ego-Perspektive, das auf Untersuchung, Atmosphäre und Teamarbeit aufbaut. Du erkundest Spukorte, sammelst mit einem Set aus Ortungs- und Aufnahmegeräten Beweise und versuchst, den Spuk aufzulösen, während eine unsichtbare Entität auf jedes Licht, jedes Geräusch und jeden Fehler reagiert.",
+        "Durchläufe folgen einer vierphasigen Schleife: den Ort erkunden, Beweise dokumentieren, die Eskalation überleben und extrahieren, bevor die Aufmerksamkeit ihren Höhepunkt erreicht. Angst, Sanity und die Aufmerksamkeit der Entität sind überlagerte Belastungen, die sich gegenseitig verstärken, deshalb zählen Geduld und Information mehr als Geschwindigkeit. Unser Wiki deckt das gesamte System ab – von Einsteigerschritten und Steuerungsbelegungen bis zu Untersuchungswerkzeugen, Story-Entscheidungen, Charakteren, Geheimnissen und Release-Informationen."
+      ],
+      "stats": [
+        {
+          "label": "Genre",
+          "value": "Co-op-Horror-Untersuchung"
+        },
+        {
+          "label": "Perspektive",
+          "value": "Ego-Perspektive"
+        },
+        {
+          "label": "Spielmodus",
+          "value": "Solo und Co-op"
+        },
+        {
+          "label": "Kernschleife",
+          "value": "Untersuchen und Überleben"
+        },
+        {
+          "label": "Schlüsselsysteme",
+          "value": "Angst und Sanity"
+        },
+        {
+          "label": "Schwierigkeit",
+          "value": "Casual bis Albtraum"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Erkunde das The Conjuring Unspoken Wiki",
+      "description": "Arbeite alle acht Guide-Module durch – von deiner ersten paranormalen Untersuchung bis zu Story-Entscheidungen, Charakteren, Geheimnissen und Release-Informationen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "The Conjuring Unspoken Einsteiger-Guide",
+          "description": "Ein anfängerfreundlicher Guide zum grundlegenden Gameplay-Ablauf, zum Untersuchungsprozess, zu Story-Entscheidungen und zum Einstieg in deine paranormale Untersuchung. Er hilft neuen Spielern, Steuerung, Ziele und wichtige Mechaniken vor dem Spielen zu verstehen.",
+          "href": "/guide/the-conjuring-unspoken-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Stelle zuerst den Ton ein – Kopfhörer auf, Effekte hoch; Sound ist dein wichtigstes Warnsystem"
+            },
+            {
+              "label": "2",
+              "detail": "Beende das Einstiegs-Tutorial ohne Überspringen, um Bewegung, Interaktion und Item-Regeln zu lernen"
+            },
+            {
+              "label": "3",
+              "detail": "Laufe die Karte einmal in entspanntem Zustand ab und merke dir Ausgänge und Verstecke"
+            },
+            {
+              "label": "4",
+              "detail": "Übe pro Durchlauf nur ein Werkzeug oder eine Mechanik, statt dich zu überladen"
+            },
+            {
+              "label": "5",
+              "detail": "Spiele deine erste echte Runde mit einer geduldigen, redenden Gruppe"
+            },
+            {
+              "label": "6",
+              "detail": "Reflektiere nach jedem Durchlauf, was dich getötet hat – Tode sind Information, kein Versagen"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "The Conjuring Unspoken Gameplay-Guide",
+          "description": "Dieses Modul erklärt die zentralen Gameplay-Systeme, darunter Erkundung, Interaktion mit Objekten, Dialogentscheidungen, Untersuchungswerkzeuge und Story-Fortschritt. Es richtet sich an Spieler, die wissen wollen, wie das Spiel funktioniert.",
+          "href": "/mechanics/the-conjuring-unspoken-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Erkunden",
+              "detail": "Kartiere den Ort und markiere Aktivitäts-Hotspots, bevor die Entität sich festlegt"
+            },
+            {
+              "label": "Dokumentieren",
+              "detail": "Sichere Beweise mit Ortungs- und Aufnahmegeräten, während die Entität reagiert"
+            },
+            {
+              "label": "Eskalieren",
+              "detail": "Dringe tiefer vor für das letzte Beweisstück, während die Jagden länger werden"
+            },
+            {
+              "label": "Auflösen",
+              "detail": "Schließe den Auflösungsschritt ab und extrahiere, bevor die Aggression ihren Höhepunkt erreicht"
+            },
+            {
+              "label": "Sanity",
+              "detail": "Behandle Sanity als ausgebenbar – nimm einen Treffer in Kauf, um eine wertvolle Aufnahme zu sichern"
+            },
+            {
+              "label": "Angst",
+              "detail": "Angst steigt im Dunkeln schnell; suche Licht und höre auf, Werkzeuge anzufassen"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "The Conjuring Unspoken Untersuchungswerkzeuge",
+          "description": "Ein eigener Guide für Geisterjäger-Ausrüstung wie EMF-Messgeräte, Infrarotkameras, Funkgeräte und weitere Untersuchungsmechaniken. Er hilft Nutzern zu lernen, wie jedes Werkzeug genutzt wird, um übernatürliche Hinweise zu finden.",
+          "href": "/mechanics/the-conjuring-unspoken-paranormal-investigation",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "EMF-Messgerät und Thermometer – der grundlegende Scan, der einen echten Hotspot findet, bevor du etwas provozierst"
+            },
+            {
+              "label": "A",
+              "detail": "Spirit Box und Spirit Writing – gezielte Befragung, sobald ein Hotspot bestätigt ist"
+            },
+            {
+              "label": "B",
+              "detail": "Kamera/DVR und Bewegungssensor – Beweise sichern und Korridore sowie Ausgänge überwachen"
+            },
+            {
+              "label": "C",
+              "detail": "Salzlinie und Kruzifix – defensive Werkzeuge, die auf der Fluchtroute Sekunden erkaufen"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "The Conjuring Unspoken Story-Entscheidungen",
+          "description": "Dieses Modul behandelt narrative Entscheidungen, Dialogoptionen und den Einfluss der Spielerwahl auf das interaktive Horrorerlebnis. Es ist nützlich für Nutzer, die nach Story-Pfaden und Entscheidungsfolgen suchen.",
+          "href": "/story/the-conjuring-unspoken-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Entscheidungen",
+              "detail": "Narrative Entscheidungen bestimmen, welche Fallstränge und Ausgänge du siehst"
+            },
+            {
+              "label": "Dialog",
+              "detail": "Dialogoptionen enthüllen Charaktermotive und verborgene Lore"
+            },
+            {
+              "label": "Enden",
+              "detail": "Die Spielerwahl beeinflusst, wie die interaktive Horrorgeschichte endet"
+            },
+            {
+              "label": "Zeitlinie",
+              "detail": "Veröffentlichungsreihenfolge und chronologische Reihenfolge erzählen sehr unterschiedliche Geschichten"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "The Conjuring Unspoken Geheimnisse-Guide",
+          "description": "Ein Abschnitt zu Sammelobjekten und verborgenen Inhalten, der sich auf das Finden von Geheimnissen, optionalen Interaktionen und zusätzlicher Lore während der Untersuchung konzentriert. Er unterstützt explorationsorientierte SEO-Suchen.",
+          "href": "/guide/the-conjuring-unspoken-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lore",
+              "detail": "Filmübergreifende Hinweise und umgeschriebene Fallakten, die die Filme nur andeuten"
+            },
+            {
+              "label": "Geheimnisse",
+              "detail": "Verborgene Details, verteilt über die Zeitlinie des Conjuring-Universums"
+            },
+            {
+              "label": "Fälle",
+              "detail": "Echte Warren-Fallakten hinter den Spukereignissen auf dem Bildschirm"
+            },
+            {
+              "label": "Ansehen",
+              "detail": "Veröffentlichungsreihenfolge versus chronologische Reihenfolge – zwei sehr unterschiedliche Erlebnisse"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "The Conjuring Unspoken Charaktere-Guide",
+          "description": "Ein Charakterinformationsabschnitt mit Schlüsselfiguren wie Francesca Noakes, der Cooper-Familie und übernatürlichen Entitäten, die mit dem Mysterium verbunden sind. Er hilft Nutzern, die Geschichte und die Verbindungen des Universums zu erkunden.",
+          "href": "/characters/the-conjuring-unspoken-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Warrens",
+              "detail": "Ed und Lorraine tragen die Franchise als Ermittlerduo"
+            },
+            {
+              "label": "Familie",
+              "detail": "Der betroffene Haushalt, dessen Zuhause zum Schlachtfeld wird"
+            },
+            {
+              "label": "Entität",
+              "detail": "Die bewusst kaum enthüllte Bedrohung im Zentrum jedes Falls"
+            },
+            {
+              "label": "Klerus",
+              "detail": "Die rituelle Autorität, die den theologischen Rahmen liefert"
+            },
+            {
+              "label": "Skeptiker",
+              "detail": "Zweifelnde Einheimische und Beamte verankern die Geschichte im Realismus"
+            },
+            {
+              "label": "Artefakt",
+              "detail": "Verfluchte Objekte, die Erinnerung von Fall zu Fall tragen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "The Conjuring Unspoken Plattformen-Guide",
+          "description": "Dieses Modul beantwortet häufige Fragen zu Plattformen und Zugang, einschließlich Netflix-Verfügbarkeit, unterstützter Geräte, Cloud-Gaming-Funktionen und Anforderungen an die Controller-Einrichtung.",
+          "href": "/release/the-conjuring-unspoken-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Kinos",
+              "detail": "Breiter Kinostart – das erste und meist exklusive Zeitfenster"
+            },
+            {
+              "label": "Digital",
+              "detail": "Premium-Verleih und Kauf-Shops folgen Wochen später"
+            },
+            {
+              "label": "Streaming",
+              "detail": "Abo-Dienste führen Franchise-Titel nach dem Kinostart"
+            },
+            {
+              "label": "Physisch",
+              "detail": "Blu-ray, 4K UHD und Sammlereditionen für dauerhaften Besitz"
+            },
+            {
+              "label": "Netflix",
+              "detail": "Die Verfügbarkeit variiert je nach Region und ändert sich – prüfe deinen lokalen Katalog"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "The Conjuring Unspoken News und Updates",
+          "description": "Ein News-Abschnitt mit offiziellen Ankündigungen, Trailern, Release-Informationen und zukünftigen Updates zu The Conjuring: Unspoken. Er richtet sich an Nutzer, die Release-Details und die neuesten Informationen suchen.",
+          "href": "/community/the-conjuring-unspoken-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Details zum Kinostart und wo das nächste Kapitel landet"
+            },
+            {
+              "label": "Trailer",
+              "detail": "Offizielle Trailer, Teaser und erste Aufnahmen"
+            },
+            {
+              "label": "Gerüchte",
+              "detail": "Wie du verifizierte Studio-News von Fan-Spekulation trennst"
+            },
+            {
+              "label": "Roster",
+              "detail": "Jeder bestätigte Eintrag des Conjuring-Universums und sein Platz in der Zeitlinie"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu The Conjuring Unspoken.",
+      "items": [
+        {
+          "question": "Was ist The Conjuring Unspoken?",
+          "answer": "The Conjuring Unspoken ist ein übernatürliches Horrorerlebnis in der Ego-Perspektive, das auf paranormaler Untersuchung, Atmosphäre und Teamarbeit aufbaut. Du erkundest Spukorte, sammelst mit Ortungs- und Aufnahmegeräten Beweise und versuchst, den Spuk aufzulösen, während eine unsichtbare Entität auf dein Licht, deine Geräusche und deine Bewegungen reagiert."
+        },
+        {
+          "question": "Ist The Conjuring Unspoken anfängerfreundlich?",
+          "answer": "Ziemlich, solange du es als etwas zum Lernen und nicht als Herausforderung zum Besiegen behandelst. Die Systeme sind unkompliziert und die Schwierigkeit entsteht aus dem Druck: Stelle zuerst den Ton ein, gehe statt zu sprinten und gönne dir ein paar Durchläufe, um Karte und Audio-Hinweise aufzunehmen."
+        },
+        {
+          "question": "Kann man The Conjuring Unspoken allein spielen?",
+          "answer": "Ja. Solo-Durchläufe sind angespannter und weniger verzeihend, weil niemand deinen Rückzug decken oder dich wiederbeleben kann, daher zählen Geduld und Fluchtplanung noch mehr. Für neue Spieler ist ein Duo meist der ideale Mittelweg."
+        },
+        {
+          "question": "Welche Werkzeuge nutzt man in The Conjuring Unspoken?",
+          "answer": "Zum Kernkit gehören ein EMF-Messgerät, ein Thermometer, eine Spirit Box, Spirit Writing, Bewegungssensoren, Kamera und DVR, Salzlinien und ein Kruzifix. Jedes Gerät misst ein anderes Phänomen, also trage nie zwei Werkzeuge, die dasselbe tun."
+        },
+        {
+          "question": "Wie überlebt man eine Jagd in The Conjuring Unspoken?",
+          "answer": "Brich die Sichtlinie, hör auf zu sprinten, damit sich deine Ausdauer erholt, und achte auf die Geräusche vor der Jagd. Platziere Schutzzeichen und Salz auf deiner Fluchtroute, bevor du mit der Arbeit beginnst – nicht in Panik während einer Verfolgung."
+        },
+        {
+          "question": "Wo kann ich The Conjuring Unspoken ansehen oder spielen?",
+          "answer": "Die Plattformverfügbarkeit wird noch von der Community gemeldet. Conjuring-Titel folgen üblicherweise einem Kino-zuerst-Muster, bevor sie zu digitalem Verleih, Abo-Streaming und physischen Medien wechseln, und regionale Kataloge unterscheiden sich enorm."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, The Conjuring Unspoken zu enthüllen?",
+      "description": "Von deiner ersten paranormalen Untersuchung bis zur letzten Story-Entscheidung deckt dich unser Community-Wiki mit kostenlosen, aktuellen Charakter-, Werkzeug- und Walkthrough-Guides ab.",
+      "primary": "Den Einsteiger-Guide lesen",
+      "secondary": "Auf Netflix spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "The Conjuring Unspoken Guides",
+    "overviewDescription": "Schritt-für-Schritt-Guides zu The Conjuring Unspoken mit Einsteigertipps, Walkthroughs, Geheimnissen und Tutorials für jede Untersuchung."
+  },
+  "mechanics": {
+    "overviewTitle": "The Conjuring Unspoken Mechaniken",
+    "overviewDescription": "Lerne Gameplay, Multiplayer, Steuerung, Schwierigkeit und paranormale Untersuchungsmechaniken von The Conjuring Unspoken."
+  },
+  "characters": {
+    "overviewTitle": "The Conjuring Unspoken Charaktere",
+    "overviewDescription": "Lerne die Charaktere von The Conjuring Unspoken kennen, die Warrens, Ed und Lorraine Warren, und die Dämonen, die jeden Fall heimsuchen."
+  },
+  "story": {
+    "overviewTitle": "The Conjuring Unspoken Story",
+    "overviewDescription": "Erkunde Story, Lore, Fälle, Universum und Spukorte von The Conjuring Unspoken."
+  },
+  "community": {
+    "overviewTitle": "The Conjuring Unspoken Community",
+    "overviewDescription": "Der Community-Hub zu The Conjuring Unspoken mit Reddit, Discord, Reviews, News, Updates und Trailer-Reaktionen."
+  },
+  "release": {
+    "overviewTitle": "The Conjuring Unspoken Release-Infos",
+    "overviewDescription": "Release-Datum, Trailer, Plattformen, PC, Netflix und Konsolen-Details zu The Conjuring Unspoken."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "The Conjuring Unspoken Wiki",
+    "about": "Das The Conjuring Unspoken Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Gameplay-Systemen, Untersuchungswerkzeugen, Story-Entscheidungen, Charakteren und wichtigem Spielwissen – für neue wie erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 The Conjuring Unspoken Wiki. Nicht mit Netflix verbunden.",
+    "description": "Übernatürliches Horror-Abenteuer auf Netflix. Guides, Story-Entscheidungen, Untersuchungswerkzeuge und Charaktere.",
+    "playGame": "Auf Netflix spielen",
+    "officialDiscord": "Offizielles Support-Center",
+    "officialYoutube": "Offizieller Netflix-YouTube",
+    "vvBuilder": "The Conjuring Unspoken News",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Charakter-Guides",
+    "bossGuides": "Story-Guides",
+    "buildGuide": "Untersuchungswerkzeuge",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
