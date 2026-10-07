@@ -6,7 +6,17 @@
     "description": "Explore The Conjuring Unspoken Wiki with guides, characters, lore, gameplay tips, updates and community resources to help players master the horror adventure experience.",
     "legalNotice": "Non-official fan wiki. Not affiliated with Netflix. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "story": "Story",
+    "community": "Community",
+    "release": "Release"
+  },
   "home": {
     "meta": {
       "title": "The Conjuring Unspoken Wiki - Guides, Lore & Characters",
@@ -429,7 +439,30 @@
       "secondary": "Play on Netflix"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "The Conjuring Unspoken Guides",
+    "overviewDescription": "Step-by-step The Conjuring Unspoken guides covering beginner tips, walkthroughs, secrets and tutorials for every investigation."
+  },
+  "mechanics": {
+    "overviewTitle": "The Conjuring Unspoken Mechanics",
+    "overviewDescription": "Learn The Conjuring Unspoken gameplay, multiplayer, controls, difficulty and paranormal investigation mechanics."
+  },
+  "characters": {
+    "overviewTitle": "The Conjuring Unspoken Characters",
+    "overviewDescription": "Meet The Conjuring Unspoken characters, the Warrens, Ed and Lorraine Warren, and the demons haunting each case."
+  },
+  "story": {
+    "overviewTitle": "The Conjuring Unspoken Story",
+    "overviewDescription": "Explore The Conjuring Unspoken story, lore, cases, universe and haunted house locations."
+  },
+  "community": {
+    "overviewTitle": "The Conjuring Unspoken Community",
+    "overviewDescription": "The Conjuring Unspoken community hub with Reddit, Discord, reviews, news, updates and trailer reactions."
+  },
+  "release": {
+    "overviewTitle": "The Conjuring Unspoken Release Info",
+    "overviewDescription": "The Conjuring Unspoken release date, trailer, platforms, PC, Netflix and console details."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
