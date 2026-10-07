@@ -29,7 +29,8 @@ export const siteConfig: SiteConfig = {
   gameUrl: "https://www.netflix.com/games",
   heroVideoId: "uSN_LlaJAXU", // The Conjuring: Unspoken | Official Game Trailer | Netflix
   social: {
-    youtube: "https://www.youtube.com/@Netflix",
+    discord: "https://games-netflix.helpshift.com/hc/en/60-the-conjuring-unspoken/",
+    youtube: "https://www.youtube.com/@NetflixGames",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
