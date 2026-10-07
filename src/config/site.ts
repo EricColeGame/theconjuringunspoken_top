@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Guides, Investigation Tools & Story Choices",
   description: "Explore The Conjuring Unspoken Wiki with guides, characters, lore, gameplay tips, updates and community resources to help players master the horror adventure experience.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://theconjuringunspoken.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://theconjuringunspoken.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@theconjuringunspoken.top",
   gameUrl: "https://www.netflix.com/games",
   heroVideoId: "uSN_LlaJAXU", // The Conjuring: Unspoken | Official Game Trailer | Netflix
   social: {
