@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Survive your first investigation with spoiler-light first-session steps: set your audio, walk before you run, and learn the habits that keep new players alive."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Gameplay & Sanity Loop",
+          "description": "Understand the four-phase loop of scout, document, escalate, and resolve, plus how fear, sanity, and entity attention feed each other every run."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Controls & Keybinds",
+          "description": "Learn the locomotion, interaction, and perception layers of the control scheme, with default keyboard and gamepad bindings you can rebind one at a time."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in The Conjuring Unspoken."
+          "title": "Co-op & Survival Tips",
+          "description": "Assign scout, documenter, and support roles, keep callouts short, and place wards on your escape route before the hunt begins."
         }
       ]
     },
@@ -62,237 +62,331 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Investigation Tools",
+        "Story Choices",
+        "Characters & Lore"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "First-session steps, core mechanics, co-op roles, and the mistakes that get new players killed.",
+          "href": "/guide/the-conjuring-unspoken-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Mechanics",
+          "title": "Gameplay & Sanity",
+          "description": "The investigate-document-survive loop explained, including fear, sanity, and entity attention systems.",
+          "href": "/mechanics/the-conjuring-unspoken-gameplay"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Mechanics",
+          "title": "Investigation Tools",
+          "description": "Every detection, contact, capture, and defensive device and the moment each one is worth using.",
+          "href": "/mechanics/the-conjuring-unspoken-paranormal-investigation"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Guide",
+          "title": "Controls & Keybinds",
+          "description": "Movement, interaction, and camera bindings for keyboard, mouse, and gamepad with remap advice.",
+          "href": "/mechanics/the-conjuring-unspoken-controls"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Guide",
+          "title": "Secrets & Lore",
+          "description": "Hidden lore, cross-film Easter eggs, real Warren case files, and timeline order explained.",
+          "href": "/guide/the-conjuring-unspoken-secrets"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Characters",
+          "title": "Characters & Demons",
+          "description": "The investigators, afflicted families, entities, and cursed artifacts that drive each case.",
+          "href": "/characters/the-conjuring-unspoken-characters"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Story",
+          "title": "Story & Cases",
+          "description": "How narrative choices, dialogue, and case threads shape the interactive horror experience.",
+          "href": "/story/the-conjuring-unspoken-story"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Release",
+          "title": "Platforms & Availability",
+          "description": "Theatrical, streaming, digital rental, and physical options plus how to track official news.",
+          "href": "/release/the-conjuring-unspoken-platforms"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "News",
+          "title": "Latest Updates",
+          "description": "Official announcements, trailers, release details, and how to separate news from rumor.",
+          "href": "/community/the-conjuring-unspoken-updates"
         }
       ]
     },
     "aboutGame": {
       "title": "What is The Conjuring Unspoken?",
       "paragraphs": [
-        "The Conjuring Unspoken is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "The Conjuring Unspoken is a first-person supernatural horror experience built around investigation, atmosphere, and teamwork. You explore haunted locations, gather evidence with a toolkit of detection and capture devices, and try to resolve the haunting while an unseen entity reacts to every light, sound, and mistake you make.",
+        "Runs follow a four-phase loop: scout the site, document evidence, survive the escalation, and extract before attention peaks. Fear, sanity, and entity attention are layered pressures that feed each other, so patience and information matter more than speed. Our wiki covers the full system, from beginner steps and control bindings to investigation tools, story choices, characters, secrets, and release information."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
-          "label": "Platform",
-          "value": "Roblox"
-        },
-        {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Co-op Horror Investigation"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Perspective",
+          "value": "First-Person"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Play Mode",
+          "value": "Solo & Co-op"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Core Loop",
+          "value": "Investigate & Survive"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Key Systems",
+          "value": "Fear & Sanity"
+        },
+        {
+          "label": "Difficulty",
+          "value": "Casual to Nightmare"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore The Conjuring Unspoken Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Work through all eight guide modules, from your first paranormal investigation to story choices, characters, secrets, and release information.",
       "modules": [
         {
           "order": 1,
-          "name": "The Conjuring Unspoken Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/the-conjuring-unspoken-codes",
-          "displayType": "code-box",
+          "name": "The Conjuring Unspoken Beginner Guide",
+          "description": "A beginner-friendly guide covering the basic gameplay loop, investigation process, story choices, and how to start your paranormal investigation. It helps new players understand controls, objectives, and important mechanics before playing.",
+          "href": "/guide/the-conjuring-unspoken-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Set your audio first — headphones on, effects high; sound is your primary warning system"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Finish the opening tutorial without skipping to learn movement, interaction, and item rules"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Walk the full map once in a low-pressure state and memorize exits and hiding spots"
+            },
+            {
+              "label": "4",
+              "detail": "Practice one tool or mechanic per run instead of overloading yourself"
+            },
+            {
+              "label": "5",
+              "detail": "Join your first real round with a patient, talking group"
+            },
+            {
+              "label": "6",
+              "detail": "Review what killed you after every run — deaths are information, not failure"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/the-conjuring-unspoken-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "The Conjuring Unspoken Gameplay Guide",
+          "description": "This module explains core gameplay systems including exploration, interacting with objects, dialogue decisions, investigation tools, and story progression. It targets searches from players looking for how the game works.",
+          "href": "/mechanics/the-conjuring-unspoken-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Scout",
+              "detail": "Map the location and mark activity hotspots before the entity commits"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Document",
+              "detail": "Capture evidence with detection and recording tools while the entity reacts"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Escalate",
+              "detail": "Push deeper for the final piece of evidence as hunts grow longer"
+            },
+            {
+              "label": "Resolve",
+              "detail": "Complete the resolution step and extract before aggression peaks"
+            },
+            {
+              "label": "Sanity",
+              "detail": "Treat sanity as spendable — accept a hit to secure a high-value capture"
+            },
+            {
+              "label": "Fear",
+              "detail": "Fear spikes quickly in darkness; find light and stop touching tools"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/the-conjuring-unspoken-tier-list",
+          "name": "The Conjuring Unspoken Investigation Tools",
+          "description": "A dedicated guide for ghost-hunting equipment such as EMF readers, infrared cameras, radios, and other investigation mechanics. It helps users learn how each tool is used to discover supernatural clues.",
+          "href": "/mechanics/the-conjuring-unspoken-paranormal-investigation",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "EMF Reader & Thermometer — the baseline sweep that finds a real hotspot before you provoke anything"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Spirit Box & Spirit Writing — targeted questioning once a hotspot is confirmed"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Camera / DVR & Motion Sensor — locking evidence and monitoring corridors and exits"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Salt Line & Crucifix — defensive tools that buy seconds on the escape route"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/the-conjuring-unspoken-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "The Conjuring Unspoken Story Choices",
+          "description": "This module covers narrative decisions, dialogue options, and how player choices influence the interactive horror experience. It is useful for users searching for story paths and decision outcomes.",
+          "href": "/story/the-conjuring-unspoken-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Choices",
+              "detail": "Narrative decisions shape which case threads and outcomes you see"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Dialogue",
+              "detail": "Dialogue options reveal character motives and hidden lore"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Endings",
+              "detail": "Player choices influence how the interactive horror story resolves"
+            },
+            {
+              "label": "Timeline",
+              "detail": "Release order and chronological order tell very different stories"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/the-conjuring-unspoken-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "The Conjuring Unspoken Secrets Guide",
+          "description": "A collectibles and hidden-content section focused on finding secrets, optional interactions, and additional lore hidden throughout the investigation. It supports exploration-focused SEO searches.",
+          "href": "/guide/the-conjuring-unspoken-secrets",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Lore",
+              "detail": "Cross-film clues and rewritten case files the movies only hint at"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Secrets",
+              "detail": "Hidden details scattered across the Conjuring Universe timeline"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Cases",
+              "detail": "Real Warren case files behind the on-screen hauntings"
+            },
+            {
+              "label": "Watch",
+              "detail": "Release order versus chronological order — two very different experiences"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/the-conjuring-unspoken-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "The Conjuring Unspoken Characters Guide",
+          "description": "A character information section introducing key figures such as Francesca Noakes, the Cooper family, and supernatural entities connected to the mystery. It helps users explore the story and universe connections.",
+          "href": "/characters/the-conjuring-unspoken-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Warrens",
+              "detail": "Ed and Lorraine anchor the franchise as its investigator duo"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Family",
+              "detail": "The afflicted household whose home becomes a battleground"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Entity",
+              "detail": "The deliberately under-revealed threat at the center of each case"
+            },
+            {
+              "label": "Clergy",
+              "detail": "The ritual authority who provides the theological framework"
+            },
+            {
+              "label": "Skeptic",
+              "detail": "Doubting locals and officials ground the story in realism"
+            },
+            {
+              "label": "Artifact",
+              "detail": "Cursed objects that carry memory between cases"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "The Conjuring Unspoken Platforms Guide",
+          "description": "This module answers common platform and access questions including Netflix availability, supported devices, cloud gaming features, and controller setup requirements.",
+          "href": "/release/the-conjuring-unspoken-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Theaters",
+              "detail": "Wide cinema release — first and usually exclusive window"
+            },
+            {
+              "label": "Digital",
+              "detail": "Premium rental and buy-to-own storefronts arrive weeks later"
+            },
+            {
+              "label": "Streaming",
+              "detail": "Subscription services carry franchise titles after the theatrical run"
+            },
+            {
+              "label": "Physical",
+              "detail": "Blu-ray, 4K UHD, and collector editions for permanent ownership"
+            },
+            {
+              "label": "Netflix",
+              "detail": "Availability varies by region and changes over time — check your local catalog"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "The Conjuring Unspoken News And Updates",
+          "description": "A news section collecting official announcements, trailers, release information, and future updates about The Conjuring: Unspoken. It targets users searching for release details and latest information.",
+          "href": "/community/the-conjuring-unspoken-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Theatrical release details and where the next chapter lands"
+            },
+            {
+              "label": "Trailer",
+              "detail": "Official trailers, teasers, and first-look footage"
+            },
+            {
+              "label": "Rumors",
+              "detail": "How to separate verified studio news from fan speculation"
+            },
+            {
+              "label": "Roster",
+              "detail": "Every confirmed Conjuring Universe entry and its place in the timeline"
             }
           ]
         }
@@ -304,23 +398,27 @@
       "items": [
         {
           "question": "What is The Conjuring Unspoken?",
-          "answer": "The Conjuring Unspoken is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "The Conjuring Unspoken is a first-person supernatural horror experience built around paranormal investigation, atmosphere, and teamwork. You explore haunted locations, gather evidence with detection and capture tools, and try to resolve the haunting while an unseen entity reacts to your light, noise, and movement."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is The Conjuring Unspoken beginner friendly?",
+          "answer": "Reasonably so, as long as you treat it as something to learn rather than a challenge to beat. The systems are straightforward and the difficulty comes from pressure: set your audio first, walk instead of sprinting, and give yourself a few runs to absorb the map and audio cues."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Can you play The Conjuring Unspoken solo?",
+          "answer": "Yes. Solo runs are tenser and less forgiving because no one can cover your retreat or revive you, so patience and escape planning matter even more. For new players, a duo is usually the sweet spot."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What tools do you use in The Conjuring Unspoken?",
+          "answer": "The core kit includes an EMF reader, thermometer, spirit box, spirit writing, motion sensors, camera and DVR, salt lines, and a crucifix. Each device reads a different phenomenon, so never carry two tools that do the same job."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do you survive a hunt in The Conjuring Unspoken?",
+          "answer": "Break line of sight, stop sprinting so your stamina can recover, and listen for the pre-hunt sound set. Place wards and salt on your escape route before you start working, not in a panic during a chase."
+        },
+        {
+          "question": "Where can I watch or play The Conjuring Unspoken?",
+          "answer": "Platform availability is still community-reported. Conjuring titles typically follow a theatrical-first pattern before moving to digital rental, subscription streaming, and physical media, and regional catalogs differ enormously."
         }
       ]
     },
