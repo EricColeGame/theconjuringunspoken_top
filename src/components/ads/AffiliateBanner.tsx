@@ -12,9 +12,9 @@ export function AffiliateBanner({ className = "" }: { className?: string }) {
         aria-label="18+ sponsored ChatUp AI affiliate"
         className="block w-full max-w-[728px]"
       >
-        <span className="relative block aspect-[1368/244] w-full overflow-hidden rounded-sm">
+        <span className="relative block aspect-[1388/494] w-full overflow-hidden rounded-sm">
           <Image
-            src="/images/chatup-horizontal-source.png"
+            src="/images/chatup-grid-source.png"
             alt="ChatUp AI 18+ AI companion"
             fill
             sizes="(max-width: 728px) 100vw, 728px"
